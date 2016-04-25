@@ -1,20 +1,22 @@
+
 # bindy [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/bindy.svg)](https://www.npmjs.com/package/bindy) [![Downloads](https://img.shields.io/npm/dt/bindy.svg)](https://www.npmjs.com/package/bindy) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Create array of functions bound to input arrays.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save bindy
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
-"use strict";
-
-// Require the bindy module
-const bindy = require("../lib");
+// Require the ../lib module
+const bindy = require("bindy");
 
 // Define a square function
 var square = x => x * x;
@@ -36,7 +38,8 @@ bindy([1, 2, 3], (x, cb) => {
 });
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `bindy(arr, fn)`
 Creates an array of functions bound to the specified arrays.
@@ -48,17 +51,21 @@ Creates an array of functions bound to the specified arrays.
 #### Return
 - **Array** An array of functions. Each function is bound to the current element from the input array.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`github-emojify`](https://github.com/IonicaBizau/github-emojifiy#readme)
 
- - [`npm-available-array`](https://github.com/IonicaBizau/npm-available-array#readme)
+ - [`blah`](https://github.com/IonicaBizau/blah)—A command line tool to optimize the repetitive actions.
+ - [`git-cloner`](https://github.com/IonicaBizau/git-cloner#readme)—Clone multiple git repositories.
+ - [`github-emojify`](https://github.com/IonicaBizau/github-emojifiy#readme)—Emojify your GitHub repository descriptions.
+ - [`npm-available-array`](https://github.com/IonicaBizau/npm-available-array#readme)—Having an array of package names, check which ones are available on npm.
 
-## License
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
