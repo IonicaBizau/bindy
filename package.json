@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/bindy#readme",
   "dependencies": {
+    "deffy": "^2.2.2",
     "sliced": "^1.0.1"
   },
   "files": [
