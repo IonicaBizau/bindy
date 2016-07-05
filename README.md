@@ -67,6 +67,7 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`git-cloner`](https://github.com/IonicaBizau/git-cloner#readme)—Clone multiple git repositories.
  - [`github-emojify`](https://github.com/IonicaBizau/github-emojifiy#readme)—Emojify your GitHub repository descriptions.
  - [`npm-available-array`](https://github.com/IonicaBizau/npm-available-array#readme)—Having an array of package names, check which ones are available on npm.
+ - [`read-dir-and-stat`](https://github.com/IonicaBizau/read-dir-and-stat#readme)—Reads the directory files and adds the stat info.
 
 ## :scroll: License
 
