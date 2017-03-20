@@ -1,6 +1,6 @@
 {
   "name": "bindy",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Create array of functions bound to input arrays.",
   "main": "lib/index.js",
   "directories": {
@@ -18,7 +18,7 @@
     "array",
     "function"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/bindy/issues"
@@ -32,12 +32,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
