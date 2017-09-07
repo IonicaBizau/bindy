@@ -1,6 +1,6 @@
 {
   "name": "bindy",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Create array of functions bound to input arrays.",
   "main": "lib/index.js",
   "directories": {
@@ -38,6 +38,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
