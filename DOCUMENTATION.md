@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Creates an array of functions bound to the specified arrays.
 
 #### Params
+
 - **Array** `arr`: An array of elements.
 - **Function** `fn`: The function to use for binding.
 
