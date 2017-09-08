@@ -1,6 +1,6 @@
 {
   "name": "bindy",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Create array of functions bound to input arrays.",
   "main": "lib/index.js",
   "directories": {
