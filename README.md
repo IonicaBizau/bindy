@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save bindy
+# Using npm
+npm install --save bindy
+
+# Using yarn
+yarn add bindy
 ```
 
 
